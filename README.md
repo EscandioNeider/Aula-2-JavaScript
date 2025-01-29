@@ -11,4 +11,4 @@ Este projeto é uma reprodução de um site feito pelo orientador do curso com o
 `#educational-project` `#html`
 `#learning-purpose`  `#web-development`
 
-🔗 Visite o site: ()
+🔗 Visite o site: (https://escandioneider.github.io/Aula-2-JavaScript/)
